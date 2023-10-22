@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luk3Pl4ys, a 12th grade high school student living in Germany with an interest in programming and technology in general since 6th grade
+- 👋 Hi, I’m @Luk3Pl4ys, a computer science student at TU Chemnitz, Germany with an interest in programming and technology in general since 6th grade
 - 👀 I’m interested in programming(mostly with JS but also Python), Data Science, Machine Learning and Bot Creation(especially for Discord)
 - 🌱 I’m currently learning web development, working w/ Linux, a bit of Cybersecurity/Pentesting etc. using TryHackMe and how to write good and easy to read code at all ^^
 - 📫 How to reach me:
